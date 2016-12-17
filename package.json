@@ -1,0 +1,22 @@
+{
+  "name": "nodelocalhost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EternalVigil/nodeLocalHost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EternalVigil/nodeLocalHost/issues"
+  },
+  "homepage": "https://github.com/EternalVigil/nodeLocalHost#readme",
+  "dependencies": {
+    "url": "^0.11.0"
+  }
+}
